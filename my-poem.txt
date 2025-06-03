@@ -1,2 +1,4 @@
 Roses are red.
 That's all.
+
+oh wait, violets are blue!
